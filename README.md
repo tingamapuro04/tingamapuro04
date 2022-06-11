@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-**tingamapuro04/tingamapuro04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 https://user-images.githubusercontent.com/82979239/173201057-298f012b-7d05-48e0-b6ea-3c5d0dd10c44.mp4
 
 
