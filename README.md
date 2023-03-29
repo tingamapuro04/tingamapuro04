@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tingamapuro04&label=Profile%20views&color=0e75b6&style=flat" alt="tingamapuro04" /> </p>
 
 
-- 🌱 I’m currently learning **React, JavaScript, Ruby**
+- 🌱 I’m currently learning **React, JavaScript, Diluge, Ruby**
 
-- 💬 Ask me about **JavaScript, React**
+- 💬 Ask me about **JavaScript, Diluge, React**
 
 - 📫 How to reach me **alponcemobutu100@gmail.com**
 
